@@ -1,0 +1,6 @@
+[
+  {"tri_facility_id": "48640THDWCBLDG4", "facility_name": "DOW CHEMICAL CO MIDLAND OPERATIONS", "state_abbr": "MI", "county_name": "MIDLAND", "parent_co_name": "DOW INC", "fac_closed_ind": "0", "pref_latitude": "43.5936", "pref_longitude": "-84.2247"},
+  {"tri_facility_id": "77541FRPRT1234", "facility_name": "FREEPORT SMALL PLANT", "state_abbr": "tx", "county_name": "BRAZORIA", "parent_co_name": null, "fac_closed_ind": "1", "pref_latitude": null, "pref_longitude": null},
+  {"tri_facility_id": "77541FRPRT1234", "facility_name": "FREEPORT SMALL PLANT (DUP)", "state_abbr": "TX", "county_name": "BRAZORIA", "parent_co_name": null, "fac_closed_ind": "1", "pref_latitude": null, "pref_longitude": null},
+  {"tri_facility_id": "99999UNUSED0001", "facility_name": "REGISTRY ONLY FACILITY", "state_abbr": "CA", "county_name": "KERN", "parent_co_name": "", "fac_closed_ind": "0", "pref_latitude": "35.37", "pref_longitude": "-119.02"}
+]

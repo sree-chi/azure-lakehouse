@@ -1,0 +1,24 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.auto.tfvars.json
+!*.tfvars.example
+crash.log
+
+# Secrets (Snowflake key pair etc.)
+.secrets/
+*.pem
+*.p8
+
+# Bicep build output
+infra/bicep/**/*.json
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+spark-warehouse/
+metastore_db/
+derby.log

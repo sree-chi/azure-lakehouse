@@ -1,0 +1,8 @@
+# Copy to terraform.tfvars, or let scripts/Deploy-All.ps1 pass these for you.
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "centralus"
+prefix          = "trilh"
+databricks_sku  = "trial"
+client_ip       = ""   # your public IP, e.g. from https://api.ipify.org
+alert_email     = ""   # e.g. schin68@illinois.edu
+budget_amount   = 20
